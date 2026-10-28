@@ -1,0 +1,1 @@
+/dev-server/src/integrations/supabase/types.ts
